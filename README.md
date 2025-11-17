@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Responsive Uniform Cards UI (React + TailwindCSS)
 
-## Getting Started
+A fully responsive and modern card-based UI built using **React + Vite** and **TailwindCSS**.  
+This project displays multiple industry sector cards with clean image overlays and floating information boxes, designed to work across all screen sizes — mobile, tablet, and desktop.
 
-First, run the development server:
+---
 
+## 🚀 Live Demo  
+(Deploy link here after hosting on Vercel/Netlify)
+
+---
+
+## 📸 Preview  
+(Add a screenshot here)  
+
+---
+
+## ✨ Features
+
+- 📱 **Fully Responsive** (1 column mobile → 2 column tablet → 3 column desktop)
+- 🖼️ **Card Image + Floating Info Box UI**
+- 🎨 **Modern TailwindCSS design**
+- ⚡ **Fast development with Vite**
+- 🧩 **Reusable Card Component**
+- 🧘 Clean, minimal, and easy-to-understand code structure
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology            | Purpose                     |
+| --------------------- | --------------------------- |
+| **React (Vite)**      | Frontend Framework          |
+| **TailwindCSS**       | Styling & responsive design |
+| **JavaScript (ES6+)** | Logic & components          |
+
+---
+
+## 📂 Folder Structure
+
+
+---
+
+## 🔧 Installation & Setup
+
+### 1️⃣ Clone the repository
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+git clone https://github.com/AdarshYadav-dev/react-responsive-uniform-cards.git
