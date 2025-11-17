@@ -1,4 +1,4 @@
-# Responsive Uniform Cards UI (React with TailwindCSS)
+# Responsive Uniform Cards UI React with TailwindCSS
 
 A fully responsive and modern card-based UI built using **React  and **TailwindCSS**.  
 This project displays multiple industry sector cards with clean image overlays and floating information boxes, designed to work across all screen sizes — mobile, tablet, and desktop.
